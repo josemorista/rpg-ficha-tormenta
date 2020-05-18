@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/rpg-ficha-tormenta/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/rpg-ficha-tormenta/static/js/main.66354e60.chunk.js",
-    "main.js.map": "/rpg-ficha-tormenta/static/js/main.66354e60.chunk.js.map",
+    "main.js": "/rpg-ficha-tormenta/static/js/main.383b0f5a.chunk.js",
+    "main.js.map": "/rpg-ficha-tormenta/static/js/main.383b0f5a.chunk.js.map",
     "runtime-main.js": "/rpg-ficha-tormenta/static/js/runtime-main.fb4b4e89.js",
     "runtime-main.js.map": "/rpg-ficha-tormenta/static/js/runtime-main.fb4b4e89.js.map",
-    "static/js/2.9c916b6a.chunk.js": "/rpg-ficha-tormenta/static/js/2.9c916b6a.chunk.js",
-    "static/js/2.9c916b6a.chunk.js.map": "/rpg-ficha-tormenta/static/js/2.9c916b6a.chunk.js.map",
+    "static/js/2.891cf78b.chunk.js": "/rpg-ficha-tormenta/static/js/2.891cf78b.chunk.js",
+    "static/js/2.891cf78b.chunk.js.map": "/rpg-ficha-tormenta/static/js/2.891cf78b.chunk.js.map",
     "index.html": "/rpg-ficha-tormenta/index.html",
-    "precache-manifest.9b164192c33da46ca088103405fe8310.js": "/rpg-ficha-tormenta/precache-manifest.9b164192c33da46ca088103405fe8310.js",
+    "precache-manifest.a33b4a89fdb91b3513538e613f7f6b0f.js": "/rpg-ficha-tormenta/precache-manifest.a33b4a89fdb91b3513538e613f7f6b0f.js",
     "service-worker.js": "/rpg-ficha-tormenta/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/rpg-ficha-tormenta/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.9c916b6a.chunk.js.LICENSE.txt": "/rpg-ficha-tormenta/static/js/2.9c916b6a.chunk.js.LICENSE.txt",
+    "static/js/2.891cf78b.chunk.js.LICENSE.txt": "/rpg-ficha-tormenta/static/js/2.891cf78b.chunk.js.LICENSE.txt",
     "static/media/bg.jpg": "/rpg-ficha-tormenta/static/media/bg.62fc4031.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.fb4b4e89.js",
-    "static/js/2.9c916b6a.chunk.js",
+    "static/js/2.891cf78b.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.66354e60.chunk.js"
+    "static/js/main.383b0f5a.chunk.js"
   ]
 }

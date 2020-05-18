@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/rpg-ficha-tormenta/precache-manifest.9b164192c33da46ca088103405fe8310.js"
+  "/rpg-ficha-tormenta/precache-manifest.a33b4a89fdb91b3513538e613f7f6b0f.js"
 );
 
 self.addEventListener('message', (event) => {
